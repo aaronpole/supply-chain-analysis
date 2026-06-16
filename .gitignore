@@ -1,0 +1,7 @@
+*.db
+superstore_raw.csv
+ignore.txt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
